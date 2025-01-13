@@ -1,4 +1,4 @@
 # Hi there 👋
 
-!Your GitHub Stats
-!Top Languages
+![Stats](https://github-readme-stats.vercel.app/api)
+![Top Languages](https://github-readme-stats.vercel.app/api)
